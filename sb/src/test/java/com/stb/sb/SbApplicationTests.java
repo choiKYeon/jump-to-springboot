@@ -6,10 +6,10 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import java.time.LocalDateTime;
 import java.util.Optional;
 
-import com.stb.answer.Answer;
-import com.stb.answer.AnswerRepository;
-import com.stb.question.Question;
-import com.stb.question.QuestionRepository;
+import com.stb.answer.entity.Answer;
+import com.stb.answer.answerrepository.AnswerRepository;
+import com.stb.question.entity.Question;
+import com.stb.question.questionrepository.QuestionRepository;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
