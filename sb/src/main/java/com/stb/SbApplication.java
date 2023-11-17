@@ -1,4 +1,4 @@
-package com.stb.sb;
+package com.stb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
